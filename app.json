@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.appc.convention"
     },
     "android": {
       "adaptiveIcon": {
@@ -34,7 +35,7 @@
           "icon": "./src/assets/logo.png",
           "color": "#c4c4c4",
           "sounds": [
-            "./src/assets/MSN.mp3"
+            "./src/assets/msn.mp3"
           ]
         }
       ]

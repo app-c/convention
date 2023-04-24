@@ -10,7 +10,7 @@ import { ThemeProvider } from "styled-components/native";
 
 import { NavigationContainer } from "@react-navigation/native";
 import * as Notifications from "expo-notifications";
-import * as Updates from "expo-updates";
+// import * as Updates from "expo-updates";
 import {
    Box,
    Button as ButtonBase,
